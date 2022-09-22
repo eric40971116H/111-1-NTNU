@@ -12,6 +12,6 @@
   
 
 # 作業連結區
-[homework1]: python01.ipynb  "作業"
+>homework1: [python01.ipynb ] "作業"
 
 # 專題連結區
