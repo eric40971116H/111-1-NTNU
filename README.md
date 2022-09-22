@@ -12,5 +12,6 @@
   
 
 # 作業連結區
+[homework1]:https://github.com/eric40971116H/111-1NTNU-PL/blob/main/python01.ipynb
 
 # 專題連結區
