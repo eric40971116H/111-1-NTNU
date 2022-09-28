@@ -15,7 +15,7 @@
 + 第一次練習: 
 [https://github.com/eric40971116H/111-1NTNU-PL/blob/71b84c71aa79ce05fc985147a0444edca4c780a4/python01.ipynb]
 + 0922練習:
-[https://github.com/eric40971116H/111-1NTNU-PL/blob/e66732856c1716507ef70fb86fb2d8dd736a61cd/0922practice.ipynb]
+[https://github.com/eric40971116H/111-1NTNU-PL/blob/59ce1adbff0355d32a9ab55d5979ac3ae8c29f22/0922practice.ipynb]
 + 0922作業:
 [https://github.com/eric40971116H/111-1NTNU-PL/blob/a71c5259f76aeec45cddc9e8289cd0c865f2508f/python02.ipynb]
 
