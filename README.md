@@ -19,6 +19,6 @@
 + 0922練習:
 [https://github.com/eric40971116H/111-1NTNU-PL/blob/59ce1adbff0355d32a9ab55d5979ac3ae8c29f22/0922practice.ipynb]
 + 0922作業:
-[https://github.com/eric40971116H/111-1NTNU-PL/blob/a71c5259f76aeec45cddc9e8289cd0c865f2508f/python02.ipynb]
+[https://github.com/eric40971116H/111-1NTNU-PL/blob/ab615f646370aae8eb0d4fdf20df39210fe199ec/0922practice.ipynb]
 
 # 專題連結區
