@@ -18,7 +18,8 @@
 [https://github.com/eric40971116H/111-1NTNU-PL/blob/71b84c71aa79ce05fc985147a0444edca4c780a4/python01.ipynb]
 + 0922練習:
 [https://github.com/eric40971116H/111-1NTNU-PL/blob/ab615f646370aae8eb0d4fdf20df39210fe199ec/0922practice.ipynb]
-+ 0922作業:
++ 第一次作業:
 [https://github.com/eric40971116H/111-1NTNU-PL/blob/576bb98c2bd723b7e2bd17ee016cbe21d4566c0d/homework.ipynb]
-
++ 第二次作業:
+[https://github.com/eric40971116H/111-1NTNU-PL/blob/05df0169b9a8d87036c37fce7198735efa4ac72b/HW2.ipynb]
 # 專題連結區
