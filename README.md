@@ -15,6 +15,7 @@
   >
   >4
   >>[爬蟲遇到 'cp950' codec can't encode ?](https://weirenxue.github.io/2021/06/12/python_cp950_codec_cant_encode/)
+  >
   >工具
   >>[快速將csv轉json](https://www.delftstack.com/zh-tw/howto/python/csv-to-json-python/#%E5%9C%A8-python-%E4%B8%AD%E4%BD%BF%E7%94%A8-dataframe-to-json-%E6%96%B9%E6%B3%95%E5%B0%87-csv-%E6%AA%94%E6%A1%88%E8%BD%89%E6%8F%9B%E7%82%BA-json-%E6%AA%94%E6%A1%88)
 # 作業連結區
