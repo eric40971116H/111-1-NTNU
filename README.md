@@ -12,6 +12,9 @@
   >>[python語法](https://github.com/pecu/LawTech/blob/999a9e1294d50ed05d9be41894bc85d08ea47b11/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_code.ipynb)
   >>遇到“TypeError: ‘list’ object is not callable”。
   >>此时可以用 del list，释放变量 list 占用的内存
+  >
+  >4
+  >>[爬蟲遇到 'cp950' codec can't encode ?](https://weirenxue.github.io/2021/06/12/python_cp950_codec_cant_encode/)
 
 # 作業連結區
 + [第一次練習](https://github.com/eric40971116H/111-1NTNU-PL/blob/71b84c71aa79ce05fc985147a0444edca4c780a4/python01.ipynb)
