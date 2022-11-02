@@ -24,7 +24,7 @@
 + [第一次作業](https://github.com/eric40971116H/111-1NTNU-PL/blob/576bb98c2bd723b7e2bd17ee016cbe21d4566c0d/homework.ipynb)
 + [第二次作業](https://github.com/eric40971116H/111-1NTNU-PL/blob/05df0169b9a8d87036c37fce7198735efa4ac72b/HW2.ipynb)
 + [第三次作業](https://github.com/eric40971116H/111-1NTNU-PL/blob/f33e6a4ced2e99873a842fd5a4b7b8d25d276118/HW03/HW3.ipynb)
-+ [第四次作業]:()
++ [第三次作業](https://github.com/eric40971116H/111-1NTNU-PL/tree/main/HW03)
 + 
 # 專題連結區
 
