@@ -21,6 +21,7 @@
   >>[圖像製作](https://plotly.com/python/)
   >
   >資料彙整:欄位處理\篩選
+  >>[全部](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)
   >>[資料彙整](https://github.com/pecu/LawTech/blob/aa94f8b902eda3587c6873758c63e0409c37232c/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4&%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4_ppt.pdf)
   >> [資料範例code](https://github.com/pecu/LawTech/blob/aa94f8b902eda3587c6873758c63e0409c37232c/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4&%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4_code.ipynb)
 
