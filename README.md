@@ -18,6 +18,7 @@
   >
   >工具
   >>[快速將csv轉json](https://www.delftstack.com/zh-tw/howto/python/csv-to-json-python/#%E5%9C%A8-python-%E4%B8%AD%E4%BD%BF%E7%94%A8-dataframe-to-json-%E6%96%B9%E6%B3%95%E5%B0%87-csv-%E6%AA%94%E6%A1%88%E8%BD%89%E6%8F%9B%E7%82%BA-json-%E6%AA%94%E6%A1%88)
+  >>[圖像製作](https://plotly.com/python/)
   >
   >資料彙整:欄位處理\篩選
   >>[資料彙整](https://github.com/pecu/LawTech/blob/aa94f8b902eda3587c6873758c63e0409c37232c/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4&%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4_ppt.pdf)
