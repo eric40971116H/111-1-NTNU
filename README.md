@@ -35,8 +35,8 @@
 + [作業2](https://github.com/eric40971116H/111-1NTNU-PL/blob/05df0169b9a8d87036c37fce7198735efa4ac72b/HW2.ipynb)
 + [作業3](https://github.com/eric40971116H/111-1NTNU-PL/blob/f33e6a4ced2e99873a842fd5a4b7b8d25d276118/HW03/HW3.ipynb)
 + [作業3](https://github.com/eric40971116H/111-1NTNU-PL/tree/main/HW03)
-+ [作業4](https://medium.com/@ericjackintpe/%E7%94%A8python%E7%88%AC%E8%9F%B2-%E9%80%8F%E9%81%8E%E5%B7%A5%E5%85%B7%E4%BE%86%E5%88%86%E6%9E%90%E7%B6%B2%E5%8F%8B%E5%B0%8D%E6%96%BC%E6%96%B0%E4%B8%8A%E6%98%A0%E9%9B%BB%E5%BD%B1%E7%9A%84%E8%A9%95%E5%83%B9-28251dcaabdf)
-+ [作業5](https://medium.com/@ericjackintpe/文本共現網路分析-環保署裁罰處分-94ecd3560ce4)
++ [作業4-medium](https://medium.com/@ericjackintpe/%E7%94%A8python%E7%88%AC%E8%9F%B2-%E9%80%8F%E9%81%8E%E5%B7%A5%E5%85%B7%E4%BE%86%E5%88%86%E6%9E%90%E7%B6%B2%E5%8F%8B%E5%B0%8D%E6%96%BC%E6%96%B0%E4%B8%8A%E6%98%A0%E9%9B%BB%E5%BD%B1%E7%9A%84%E8%A9%95%E5%83%B9-28251dcaabdf)
++ [作業5-medium](https://medium.com/@ericjackintpe/文本共現網路分析-環保署裁罰處分-94ecd3560ce4)
 + [作業5程式碼](https://github.com/eric40971116H/111-1NTNU-PL/blob/916860b1728ec264192d6fe0d3a8d7d36274f3c0/HW05/HW05-2.ipynb)
 # 專題連結區
 
